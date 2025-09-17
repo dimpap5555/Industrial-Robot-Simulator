@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import numpy as np
 
-from rx90l import Rx90L
+from robotics.presets.rx90l_demo import Rx90LDemo as Rx90L
 
 
 def main() -> None:
